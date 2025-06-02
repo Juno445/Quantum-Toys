@@ -83,6 +83,8 @@ You experience: Plot 1: A joyous reunion changes everything.
 2. **Measurement**: Collapses to a definite emotion, but keeps all probabilities for plot selection.
 3. **Plot Selection**: Probability-weighted according to your quantum state — your reality is truly participatory, and unique, for every observer.
 
+
+## Check out our other toys such as the color generator, and coin flip - all using quantum computing simulation.
 ---
 
 *Inspired by quantum mechanics, quantum computing, and the philosophy of observer-participation in reality!*
