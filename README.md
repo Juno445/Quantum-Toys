@@ -83,13 +83,6 @@ You experience: Plot 1: A joyous reunion changes everything.
 2. **Measurement**: Collapses to a definite emotion, but keeps all probabilities for plot selection.
 3. **Plot Selection**: Probability-weighted according to your quantum state — your reality is truly participatory, and unique, for every observer.
 
-## Ideas for Expansion
-
-- Simulate **entanglement** (multiple viewers whose realities become coupled).
-- Let emotional state **evolve over multiple episodes** (measurement feedback).
-- Visualize the quantum probability distributions and plot outcomes.
-- Replace random unitary with media events, narrative choices, or user input.
-
 ---
 
 *Inspired by quantum mechanics, quantum computing, and the philosophy of observer-participation in reality!*
