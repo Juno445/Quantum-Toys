@@ -36,23 +36,46 @@ quantum_life.py
 ## Example Output
 ```
 Initial quantum superposition of viewer's emotions:
-Joy : amplitude = +0.316+0.000j, pr = 0.100
-Sadness : amplitude = +0.316+0.000j, pr = 0.100
-...
+Joy         : amplitude = +0.316+0.000j, pr = 0.100
+Sadness     : amplitude = +0.316+0.000j, pr = 0.100
+Anger       : amplitude = +0.316+0.000j, pr = 0.100
+Fear        : amplitude = +0.316+0.000j, pr = 0.100
+Disgust     : amplitude = +0.316+0.000j, pr = 0.100
+Surprise    : amplitude = +0.316+0.000j, pr = 0.100
+Trust       : amplitude = +0.316+0.000j, pr = 0.100
+Anticipation: amplitude = +0.316+0.000j, pr = 0.100
+Acceptance  : amplitude = +0.316+0.000j, pr = 0.100
+Boredom     : amplitude = +0.316+0.000j, pr = 0.100
+
 After random emotional quantum operation:
-Joy : amplitude = +0.084-0.078j, pr = 0.013
-...
+Joy         : amplitude = -0.253+0.345j, pr = 0.183
+Sadness     : amplitude = -0.176+0.314j, pr = 0.130
+Anger       : amplitude = -0.183+0.012j, pr = 0.034
+Fear        : amplitude = +0.010+0.265j, pr = 0.070
+Disgust     : amplitude = +0.225-0.068j, pr = 0.055
+Surprise    : amplitude = -0.056-0.045j, pr = 0.005
+Trust       : amplitude = +0.385+0.140j, pr = 0.168
+Anticipation: amplitude = -0.288+0.082j, pr = 0.089
+Acceptance  : amplitude = +0.350-0.077j, pr = 0.128
+Boredom     : amplitude = +0.034-0.368j, pr = 0.137
+
 Measuring emotional state...
-Your emotion upon observing 'Life' is: SADNESS
+Your emotion upon observing 'Life' is: **JOY**
 Probabilities that led to this outcome:
-joy: 0.013
-sadness: 0.279
-anger: 0.133
-...
+  joy: 0.183
+  sadness: 0.130
+  anger: 0.034
+  fear: 0.070
+  disgust: 0.055
+  surprise: 0.005
+  trust: 0.168
+  anticipation: 0.089
+  acceptance: 0.128
+  boredom: 0.137
 
 ------- TV Show 'Life' (Quantum Collapsed) -------
-The show actualizes as: ANGER
-You experience: Plot 3: Conflict escalates between rivals.
+The show actualizes as: JOY
+You experience: Plot 1: A joyous reunion changes everything.
 ```
 ## How Does It Work?
 
