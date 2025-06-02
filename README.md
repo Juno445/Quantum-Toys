@@ -21,9 +21,9 @@ Run the script, and you'll see the "reality" of the show change with each run, a
 ## Usage
 
 1. **Install dependencies:**
-'''
+```
 pip install numpy scipy
-'''
+```
 
 2. **Run the script:**
 quantum_life.py
@@ -34,7 +34,7 @@ quantum_life.py
 4. **Rerun** to see how the outcome changes!
 
 ## Example Output
-'''
+```
 Initial quantum superposition of viewer's emotions:
 Joy : amplitude = +0.316+0.000j, pr = 0.100
 Sadness : amplitude = +0.316+0.000j, pr = 0.100
@@ -53,7 +53,7 @@ anger: 0.133
 ------- TV Show 'Life' (Quantum Collapsed) -------
 The show actualizes as: ANGER
 You experience: Plot 3: Conflict escalates between rivals.
-'''
+```
 ## How Does It Work?
 
 1. **QuantumHuman**: Models emotions as quantum superposition.
